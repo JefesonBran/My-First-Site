@@ -1,0 +1,77 @@
+body{
+    background-image: url(https://sciencecue.it/wp-content/uploads/2024/02/DALL%C2%B7E-2024-02-15-11.04.28-Create-an-image-that-encapsulates-all-phases-of-the-life-of-Galileo-Galilei-celebrating-the-anniversary-of-his-birth.-The-image-should-visually-narra.webp);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0%;
+    padding: 0%;
+}
+header{
+    background-color: rgb(14, 77, 250);
+    color: rgb(255, 255, 255);
+    padding: 30px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    margin: auto;
+
+}
+nav ul{
+    list-style-type: none;
+    margin: 0%;
+    padding: 0%;
+}
+nav li{
+    display: inline;
+    margin: 0 10px;
+}
+nav a{
+    color: rgb(255, 255, 255);
+    background-position: center;
+    
+}
+main{
+    border-image: 5%;
+    text-align: unset;
+    padding: 40px;
+    background-color: rgba(196, 253, 246, 0.979);
+    width: 70%;
+    margin: auto;
+    border-radius: 50px;
+    
+}
+img{
+    width: 100%;
+    display: flow-root;
+    border: 100px rgb(191, 240, 243);
+    border-radius: 50px;
+}
+header nav ul{
+    display: flex;
+    background-color: rgb(8, 206, 255);
+    position: relative;
+    background: #009688;
+    
+}
+header nav li a{
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: cursive;
+    color: black;
+    display: flex;
+    background-color: rgb(255, 255, 255);
+    padding: 9px 45px;
+
+}
+.container img { max-width: 1000px; max-height: 700px; }
+
+section h2{ 
+    text-align: center;
+}
+header nav ul a{
+    text-align: center;
+}
+
+
+
